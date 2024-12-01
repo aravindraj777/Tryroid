@@ -12,7 +12,7 @@
             android:theme="@style/Theme.AndroidApplication"
             tools:targetApi="31">
         <activity
-                android:name=".MainActivity"
+                android:name=".HelloDroidActivity"
                 android:exported="true"
                 android:label="@string/app_name"
                 android:theme="@style/Theme.AndroidApplication.NoActionBar">
